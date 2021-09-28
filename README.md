@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taimoor Ghafar
+- 👋 Hi, I’m Taimoor Ghafar. Final year student of Computer Science at International Islamic University Islamabad-Pakistan 
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Advance Mobile App Development
 - 💞️ I’m looking to collaborate on Mobile Development Projects

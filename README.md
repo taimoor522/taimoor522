@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taimoor Ghafar
-- 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Advance Mobile App Development
 - 💞️ I’m looking to collaborate on Mobile Development Projects
 <!--- 📫 <a href='google.com'>Google</a> --->
 

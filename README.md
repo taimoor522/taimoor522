@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taimoor522" alt="taimoor522" /></a> </p>
 
-- 🔭 I’m currently working on **Thumbnail Maker App**
+- 🔭 I’m currently learning NestJS
 
 - 🌱 I’m currently learning **Augmented Reality & Native Android**
 

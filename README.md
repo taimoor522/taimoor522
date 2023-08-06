@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taimoor522" alt="taimoor522" /></a> </p>
 
-- 🔭 I’m currently learning NestJS
+- 🔭 I’m currently learning Jetpack Compose
 
 - 🌱 I’m currently learning **Augmented Reality & Native Android**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://taimoorghafar.netlify.app/#/](https://taimoorghafar.netlify.app/#/)
+
+- ❤️ Follow me on LinkedIn [https://www.linkedin.com/in/taimoorghafar/](https://www.linkedin.com/in/taimoorghafar/)
 
 - ❤️ Follow me on Instagram [https://www.instagram.com/taimoor__522/](https://www.instagram.com/taimoor__522/)
 

@@ -20,6 +20,9 @@
 - 📫 How to reach me **https://www.linkedin.com/in/taimoorghafar/**
 
 - 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d](https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d)
+<p></p>
+
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently learning Jetpack Compose
 
-- 🌱 I’m currently learning **Augmented Reality & Native Android**
-
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://taimoorghafar.netlify.app/#/](https://taimoorghafar.netlify.app/#/)
@@ -15,11 +13,11 @@
 
 - ❤️ Follow me on Instagram [https://www.instagram.com/taimoor__522/](https://www.instagram.com/taimoor__522/)
 
-- 💬 Ask me about **Flutter, C++, JavaScript, Firebase**
+- 💬 Ask me about **Flutter, Jetpack Compose, Javascript, Node JS, Firebase**
 
 - 📫 How to reach me **https://www.linkedin.com/in/taimoorghafar/**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d](https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d)
+- 📄 Know about my experiences [[https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d](https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2Fresume.pdf?alt=media&token=32676ffb-78c8-4232-b2d1-9ee89706cd35)]([https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2FTaimoor%20Ghafar%20Resume.pdf?alt=media&token=5f31267b-c01a-4b67-abd5-ae66b2633e0d](https://firebasestorage.googleapis.com/v0/b/portfolio-58081.appspot.com/o/documents%2Fresume.pdf?alt=media&token=32676ffb-78c8-4232-b2d1-9ee89706cd35))
 <p></p>
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)

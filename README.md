@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taimoor522" alt="taimoor522" /></a> </p>
 
-- 🔭 I’m currently learning Jetpack Compose
+- 🔭 I’m currently learning iOS App Development
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 

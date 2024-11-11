@@ -36,3 +36,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor522&show_icons=true&locale=en&layout=compact" alt="taimoor522" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor522&show_icons=true&locale=en" alt="taimoor522" /></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nakuldevmv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg" alt="Snake animation" />
